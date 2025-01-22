@@ -1,8 +1,12 @@
-# React + Vite
+# Projeto da Disciplina 3º semestre
+Repositório dos arquivos do projeto da disciplina do 3º semetre da matéria de Desenvolvimento Web 1 de TADS do IFSP Campinas. Modolurização do site Restaurante e Pizzaria com React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Autores
 
-Currently, two official plugins are available:
+- [Gabriel Alves da Costa]()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Guilherme Marques Norbona](https://github.com/guinorbona)
+
+## Link do WebSite
+
+https://

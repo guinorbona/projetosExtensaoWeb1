@@ -1,0 +1,74 @@
+.contact {
+    background-color: #F5F5F5;
+    padding: 20px 15px;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333333;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    width: 100%;
+    margin: 20px auto;
+    box-sizing: border-box;
+}
+
+.contact h2 {
+    color: #D32F2F;
+    text-align: center;
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+.contact p {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+form label {
+    text-align: left;
+    font-size: 1rem;
+    color: #555555;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    max-width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #FFFFFF;
+    transition: border-color 0.3s ease;
+    box-sizing: border-box;
+}
+
+form input:focus,
+form textarea:focus {
+    border-color: #D32F2F;
+    outline: none;
+}
+
+form button {
+    padding: 10px 15px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #D32F2F;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #A72828;
+}

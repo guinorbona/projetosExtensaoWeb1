@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardapio>
+  <CD>
+    <numero>1</numero>
+    <sabor>Mussarela</sabor>
+    <descricao>Rodelas de tomate e orégano</descricao>
+    <preco_12>55.90</preco_12>
+    <preco_8>46.60</preco_8>
+    <preco_4>32.80</preco_4>
+  </CD>
+  <CD>
+    <numero>2</numero>
+    <sabor>Marguerita</sabor>
+    <descricao>Mussarela, manjericão e parmesão</descricao>
+    <preco_12>55.90</preco_12>
+    <preco_8>46.60</preco_8>
+    <preco_4>32.80</preco_4>
+  </CD>
+  <CD>
+    <numero>3</numero>
+    <sabor>Calabresa</sabor>
+    <descricao>Mussarela, calabresa e cebola</descricao>
+    <preco_12>55.90</preco_12>
+    <preco_8>46.60</preco_8>
+    <preco_4>32.80</preco_4>
+  </CD>
+  <CD>
+    <numero>4</numero>
+    <sabor>Napolitana</sabor>
+    <descricao>Mussarela, rodelas de tomate parmesão e alho frito</descricao>
+    <preco_12>55.90</preco_12>
+    <preco_8>46.60</preco_8>
+    <preco_4>32.80</preco_4>
+  </CD>
+  <CD>
+    <numero>5</numero>
+    <sabor>Lombo</sabor>
+    <descricao>Mussarela, lombo e catupiry</descricao>
+    <preco_12>62.70</preco_12>
+    <preco_8>51.40</preco_8>
+    <preco_4>36.10</preco_4>
+  </CD>
+  <CD>
+    <numero>6</numero>
+    <sabor>Frango com Catupiry</sabor>
+    <descricao>Mussarela, frango e catupiry</descricao>
+    <preco_12>62.70</preco_12>
+    <preco_8>51.40</preco_8>
+    <preco_4>36.10</preco_4>
+  </CD>
+  <CD>
+    <numero>7</numero>
+    <sabor>Portuguesa</sabor>
+    <descricao>Mussarela, presunto, ovos e cebola</descricao>
+    <preco_12>55.90</preco_12>
+    <preco_8>46.60</preco_8>
+    <preco_4>32.80</preco_4>
+  </CD>
+  <CD>
+    <numero>8</numero>
+    <sabor>Frango com Creme de Milho</sabor>
+    <descricao>Mussarela, frango, creme de milho e batata palha</descricao>
+    <preco_12>63.80</preco_12>
+    <preco_8>52.60</preco_8>
+    <preco_4>37.30</preco_4>
+  </CD>
+  <CD>
+    <numero>9</numero>
+    <sabor>Milho Verde</sabor>
+    <descricao>Mussarela e milho</descricao>
+    <preco_12>63.80</preco_12>
+    <preco_8>52.60</preco_8>
+    <preco_4>37.30</preco_4>
+  </CD>
+  <CD>
+    <numero>10</numero>
+    <sabor>Presunto</sabor>
+    <descricao>Mussarela e presunto</descricao>
+    <preco_12>64.20</preco_12>
+    <preco_8>46.60</preco_8>
+    <preco_4>32.80</preco_4>
+  </CD>
+  <CD>
+    <numero>11</numero>
+    <sabor>Paulista</sabor>
+    <descricao>Mussarela, frango, catupiry e milho</descricao>
+    <preco_12>62.70</preco_12>
+    <preco_8>51.40</preco_8>
+    <preco_4>36.10</preco_4>
+  </CD>
+  <CD>
+    <numero>12</numero>
+    <sabor>Bacon</sabor>
+    <descricao>Mussarela e bacon</descricao>
+    <preco_12>62.70</preco_12>
+    <preco_8>51.40</preco_8>
+    <preco_4>36.10</preco_4>
+  </CD>
+  <CD>
+    <numero>13</numero>
+    <sabor>Atum</sabor>
+    <descricao>Mussarela, atum e cebola</descricao>
+    <preco_12>65.10</preco_12>
+    <preco_8>56.00</preco_8>
+    <preco_4>36.10</preco_4>
+  </CD>
+  <CD>
+    <numero>14</numero>
+    <sabor>Creme de Milho</sabor>
+    <descricao>Mussarela e creme de milho</descricao>
+    <preco_12>62.70</preco_12>
+    <preco_8>51.40</preco_8>
+    <preco_4>36.10</preco_4>
+  </CD>
+  <CD>
+    <numero>15</numero>
+    <sabor>Calabresa Especial</sabor>
+    <descricao>Mussarela, calabresa, palmito, cebola e catupiry</descricao>
+    <preco_12>66.10</preco_12>
+    <preco_8>57.20</preco_8>
+    <preco_4>40.30</preco_4>
+  </CD>
+  <CD>
+    <numero>16</numero>
+    <sabor>Lombo com Bacon</sabor>
+    <descricao>Mussarela, lombo, milho, bacon e catupiry</descricao>
+    <preco_12>66.10</preco_12>
+    <preco_8>57.40</preco_8>
+    <preco_4>40.30</preco_4>
+  </CD>
+  <CD>
+    <numero>17</numero>
+    <sabor>Lombo Especial</sabor>
+    <descricao>Mussarela, lombo, milho, palmito e catupiry</descricao>
+    <preco_12>66.10</preco_12>
+    <preco_8>57.40</preco_8>
+    <preco_4>40.30</preco_4>
+  </CD>
+  <CD>
+    <numero>18</numero>
+    <sabor>Tomatela</sabor>
+    <descricao>Mussarela, rúcula à juliana e tomate seco</descricao>
+    <preco_12>63.00</preco_12>
+    <preco_8>54.50</preco_8>
+    <preco_4>40.30</preco_4>
+  </CD>
+  <CD>
+    <numero>19</numero>
+    <sabor>Palmitela</sabor>
+    <descricao>Mussarela, rúcula à juliana, palmito e tomate seco</descricao>
+    <preco_12>66.20</preco_12>
+    <preco_8>56.90</preco_8>
+    <preco_4>42.00</preco_4>
+  </CD>
+  <CD>
+    <numero>20</numero>
+    <sabor>Moda do Souza</sabor>
+    <descricao>Mussarela, brócolis e alho frito</descricao>
+    <preco_12>62.10</preco_12>
+    <preco_8>56.90</preco_8>
+    <preco_4>40.80</preco_4>
+  </CD>
+  <CD>
+    <numero>21</numero>
+    <sabor>Catuperu</sabor>
+    <descricao>Mussarela, peito de peru e catupiry</descricao>
+    <preco_12>66.70</preco_12>
+    <preco_8>57.40</preco_8>
+    <preco_4>59.70</preco_4>
+  </CD>
+  <CD>
+    <numero>22</numero>
+    <sabor>Brócolis com Catupiry</sabor>
+    <descricao>Mussarela, brócolis e catupiry</descricao>
+    <preco_12>66.70</preco_12>
+    <preco_8>57.40</preco_8>
+    <preco_4>41.30</preco_4>
+  </CD>
+  <CD>
+    <numero>23</numero>
+    <sabor>Lombo com Creme</sabor>
+    <descricao>Mussarela, lombo e creme de milho</descricao>
+    <preco_12>66.70</preco_12>
+    <preco_8>57.40</preco_8>
+    <preco_4>41.30</preco_4>
+  </CD>
+  <CD>
+    <numero>24</numero>
+    <sabor>Palmito</sabor>
+    <descricao>Mussarela, palmito e catupiry</descricao>
+    <preco_12>66.70</preco_12>
+    <preco_8>57.40</preco_8>
+    <preco_4>41.30</preco_4>
+  </CD>
+  <CD>
+    <numero>25</numero>
+    <sabor>Portuguesa Especial</sabor>
+    <descricao>Mussarela, presunto, palmito, ervilha, cebola e cobertura de mussarela</descricao>
+    <preco_12>66.70</preco_12>
+    <preco_8>57.40</preco_8>
+    <preco_4>41.30</preco_4>
+  </CD>
+  <CD>
+    <numero>26</numero>
+    <sabor>Quatro Queijos</sabor>
+    <descricao>Mussarela, gorgonzola, catupiry e parmesão</descricao>
+    <preco_12>70.70</preco_12>
+    <preco_8>60.40</preco_8>
+    <preco_4>43.70</preco_4>
+  </CD>
+  <CD>
+    <numero>27</numero>
+    <sabor>Siciliana</sabor>
+    <descricao>Mussarela, salame, bacon e parmesão</descricao>
+    <preco_12>66.70</preco_12>
+    <preco_8>57.40</preco_8>
+    <preco_4>41.30</preco_4>
+  </CD>
+  <CD>
+    <numero>28</numero>
+    <sabor>Atum Especial</sabor>
+    <descricao>Mussarela, atum, palmito e catupiry</descricao>
+    <preco_12>70.70</preco_12>
+    <preco_8>60.40</preco_8>
+    <preco_4>43.70</preco_4>
+  </CD>
+  <CD>
+    <numero>29</numero>
+    <sabor>Peperone</sabor>
+    <descricao>Mussarela, peperone e parmesão</descricao>
+    <preco_12>66.70</preco_12>
+    <preco_8>57.40</preco_8>
+    <preco_4>41.30</preco_4>
+  </CD>
+  <CD>
+    <numero>30</numero>
+    <sabor>Peru Especial</sabor>
+    <descricao>Mussarela, peito de peru, bacon, milho e catupiry</descricao>
+    <preco_12>70.70</preco_12>
+    <preco_8>60.40</preco_8>
+    <preco_4>43.70</preco_4>
+  </CD>
+  <CD>
+    <numero>31</numero>
+    <sabor>Toscana</sabor>
+    <descricao>Mussarela, calabresa, ervilha e palmito</descricao>
+    <preco_12>66.70</preco_12>
+    <preco_8>57.40</preco_8>
+    <preco_4>41.30</preco_4>
+  </CD>
+  <CD>
+    <numero>32</numero>
+    <sabor>Sardinha</sabor>
+    <descricao>Mussarela, sardinha, cebola e parmesão</descricao>
+    <preco_12>65.10</preco_12>
+    <preco_8>56.00</preco_8>
+    <preco_4>39.10</preco_4>
+  </CD>
+  <CD>
+    <numero>33</numero>
+    <sabor>Milho Especial</sabor>
+    <descricao>Mussarela, milho e catupiry</descricao>
+    <preco_12>66.70</preco_12>
+    <preco_8>57.40</preco_8>
+    <preco_4>41.30</preco_4>
+  </CD>
+  <CD>
+    <numero>34</numero>
+    <sabor>Carne Seca</sabor>
+    <descricao>Mussarela, carne seca, catupiry, cebola e parmesão</descricao>
+    <preco_12>75.70</preco_12>
+    <preco_8>65.10</preco_8>
+    <preco_4>44.40</preco_4>
+  </CD>
+  <CD>
+    <numero>35</numero>
+    <sabor>Perudiana</sabor>
+    <descricao>Mussarela, peito de peru, tomate, manjericão, catupiry, champignon e parmesão</descricao>
+    <preco_12>75.70</preco_12>
+    <preco_8>65.10</preco_8>
+    <preco_4>44.40</preco_4>
+  </CD>
+  <CD>
+    <numero>36</numero>
+    <sabor>Mignon Creme</sabor>
+    <descricao>Mussarela, mignon e creme de milho</descricao>
+    <preco_12>75.70</preco_12>
+    <preco_8>65.10</preco_8>
+    <preco_4>44.40</preco_4>
+  </CD>
+  <CD>
+    <numero>37</numero>
+    <sabor>Frango com Batata Palha</sabor>
+    <descricao>Mussarela, frango, catupiry, batata palha</descricao>
+    <preco_12>75.70</preco_12>
+    <preco_8>65.10</preco_8>
+    <preco_4>44.40</preco_4>
+  </CD>
+  <CD>
+    <numero>38</numero>
+    <sabor>Moda do Cliente</sabor>
+    <descricao>Cinco ingredientes de sua escolha</descricao>
+    <preco_12>82.80</preco_12>
+    <preco_8>70.20</preco_8>
+    <preco_4>51.20</preco_4>
+  </CD>
+  <CD>
+    <numero>39</numero>
+    <sabor>Brócolis com Bacon e Catupiry</sabor>
+    <descricao>Mussarela, brócolis, bacon e catupiry</descricao>
+    <preco_12>68.90</preco_12>
+    <preco_8>63.80</preco_8>
+    <preco_4>44.30</preco_4>
+  </CD>
+  <CD>
+    <numero>40</numero>
+    <sabor>Calabresa com Catupiry</sabor>
+    <descricao>Mussarela, calabresa, cebola, catupiry</descricao>
+    <preco_12>68.90</preco_12>
+    <preco_8>63.80</preco_8>
+    <preco_4>44.30</preco_4>
+  </CD>
+  <CD>
+    <numero>41</numero>
+    <sabor>Strogonoff de Frango</sabor>
+    <descricao>Mussarela, strogonoff, champion, batata palha</descricao>
+    <preco_12>72.30</preco_12>
+    <preco_8>57.40</preco_8>
+    <preco_4>45.90</preco_4>
+  </CD>
+  <CD>
+    <numero>42</numero>
+    <sabor>Contra Filé Especial</sabor>
+    <descricao>Mussarela, contra filé, tomate picado e catupiry</descricao>
+    <preco_12>75.70</preco_12>
+    <preco_8>65.10</preco_8>
+    <preco_4>44.40</preco_4>
+  </CD>
+  <CD>
+    <numero>43</numero>
+    <sabor>Perone Especial</sabor>
+    <descricao>Mussarela, cebola roxa, catupiry</descricao>
+    <preco_12>75.70</preco_12>
+    <preco_8>65.10</preco_8>
+    <preco_4>44.40</preco_4>
+  </CD>
+  <CD>
+    <numero>44</numero>
+    <sabor>Bananeta</sabor>
+    <descricao>Mussarela, banana, (opcional canela ou leite condensado)</descricao>
+    <preco_12>55.20</preco_12>
+    <preco_8>50.00</preco_8>
+    <preco_4>33.20</preco_4>
+  </CD>
+  <CD>
+    <numero>45</numero>
+    <sabor>Brigadeiro</sabor>
+    <descricao>Mussarela, chocolate e granulado</descricao>
+    <preco_12>55.20</preco_12>
+    <preco_8>50.00</preco_8>
+    <preco_4>33.20</preco_4>
+  </CD>
+  <CD>
+    <numero>46</numero>
+    <sabor>Chccolate</sabor>
+    <descricao>Mussarela e chocolate</descricao>
+    <preco_12>55.20</preco_12>
+    <preco_8>50.00</preco_8>
+    <preco_4>33.20</preco_4>
+  </CD>
+  <CD>
+    <numero>47</numero>
+    <sabor>Doce de Leite</sabor>
+    <descricao>Mussarela, doce de leite e catupiry</descricao>
+    <preco_12>57.50</preco_12>
+    <preco_8>51.30</preco_8>
+    <preco_4>36.20</preco_4>
+  </CD>
+  <CD>
+    <numero>48</numero>
+    <sabor>Romeu e Julieta</sabor>
+    <descricao>Mussarela, goiabada e catupiry</descricao>
+    <preco_12>57.50</preco_12>
+    <preco_8>51.30</preco_8>
+    <preco_4>36.20</preco_4>
+  </CD>
+  <CD>
+    <numero>49</numero>
+    <sabor>Confete</sabor>
+    <descricao>Mussarela, chocolate e confete</descricao>
+    <preco_12>57.50</preco_12>
+    <preco_8>51.30</preco_8>
+    <preco_4>36.20</preco_4>
+  </CD>
+  <CD>
+    <numero>50</numero>
+    <sabor>BIS</sabor>
+    <descricao>Mussarela, chocolate e bis</descricao>
+    <preco_12>57.20</preco_12>
+    <preco_8>51.30</preco_8>
+    <preco_4>36.20</preco_4>
+  </CD>
+</cardapio>

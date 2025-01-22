@@ -1,0 +1,23 @@
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+  }
+  
+  nav li {
+    margin: 0 15px;
+  }
+  
+  nav a {
+    color: #388E3C;
+    text-decoration: none;
+    will-change: filter;
+    transition: filter 300ms;
+  }
+  
+  nav a:hover {
+    color: #000000;
+    filter: drop-shadow(0 0 2em #ffffffaa);
+  }
+  
